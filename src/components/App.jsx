@@ -1,4 +1,4 @@
-import { User } from "./Profile";
+import { User } from "./Profile/Profile";
 import { Statistics } from "./Statistics"
 import { FriendList } from "./Friends/FriendList";
 import { TransactionHistory } from "./TransactionHistory";
